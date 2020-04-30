@@ -2,8 +2,6 @@
 
 kNOwlock is a tool to get the lockscreen passcode of any windows, android or iPhone device by sharing a link with the victim.
 
-## Author: Omair
-
 ### Features:
 
 #### Lockscreen phishing page for Windows, Android and iPhone
